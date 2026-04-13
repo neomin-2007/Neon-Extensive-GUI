@@ -1,0 +1,16 @@
+[
+{
+  "modid": "neoextensivegui",
+  "name": "Neo-Extensive-GUI",
+  "description": "Um Mod Template para criar GUIs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Neomin"],
+  "credits": "Créditos ao Neomin por fazer este mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
